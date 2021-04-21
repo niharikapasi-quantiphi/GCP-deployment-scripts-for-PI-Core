@@ -294,9 +294,15 @@ Follow the steps present in this official PI Vision document: [Enable Basic Auth
 
         terrafom destroy
 
->  Note: destroy will not delete lables set on the project. You will have to manually delete those labels by navigating to Project Settings->Labels
+>  Note: destroy will not delete lables set on the project. You will have to manually delete those labels by navigating to Project Settings-->Labels
 
 **This is not an officially supported Google or OSIsoft product.**
+
+
+#### Contact Details
+
+For any further queries or support, please reach out to:
+Niharika Pasi at niharika.pasi@quantiphi.com
 
  
 
